@@ -1,0 +1,168 @@
+body {
+ margin: 0;
+  background-image: url(7.jpg);
+  background-size:cover;
+
+
+}
+
+
+.nav{
+	width:100%;
+	background:#000033;
+	height:100px;
+	margin-top:0px;
+	opacity:0.5;
+}
+ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:absolute;
+	margin-left: 669px;
+}
+li {
+	float:left;
+	margin-top:30px;
+}
+a{
+	width:150px;
+	color:white;
+	display:block;
+	text-decoration:none;
+	font-size:20px;0
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	font-family:Century Gothic;
+	font-weight:bold;
+}
+a:hover{
+	background:#669900;
+	transition:0.6s;
+}
+
+.homeavo {
+font-family:Arial;
+margin: 0;
+padding: 3% 6% 0% 33%;
+font-size: 60px;
+color:    #dff7f6 ;
+}
+.web {
+font-family:Arial;
+margin: 0;
+padding: 1% 6% 0% 3%;
+font-size: 45px;
+color:    #20eec2 ;
+}
+.add {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.create{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+.code {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.need{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+.clean {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.do{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+.css {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.total{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+.motion {
+font-family:Arial;
+margin: 0;
+padding: 4% 1% 0% 70%;
+font-size: 45px;
+color:    #20eec2 ;
+
+}
+
+.and{
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.new {
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+
+
+.cat{
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 3%;
+font-size: 26px;
+color:   white;
+}
+.bird {
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 19px;
+color:    #d2f6f4;
+}
+footer{
+	width:100%;
+	background-color: #2f262c;
+	padding:1% 0%;
+	opacity:0.5;
+	
+}
+.received{
+	font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 36%;
+font-size: 21px;
+color:    #fefbfd;
+}
+

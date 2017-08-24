@@ -1,0 +1,199 @@
+
+
+body {
+  margin: 0;
+  background-image: url(8.jpg);
+  background-size:cover;
+}
+.nav{
+	width:100%;
+	background:#000033;
+	height:100px;
+	margin-top:0px;
+	opacity:0.5;
+}
+ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:absolute;
+	margin-left: 669px;
+}
+li {
+	float:left;
+	margin-top:30px;
+}
+a{
+	width:150px;
+	color:white;
+	display:block;
+	text-decoration:none;
+	font-size:20px;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	font-family:Century Gothic;
+	font-weight:bold;
+}
+a:hover{
+	background:#669900;
+	transition:0.6s;
+}
+
+.homeavo {
+font-family:Arial;
+margin: 0;
+padding: 3% 6% 0% 40%;
+font-size: 60px;
+color:   #d5dbdb;
+}
+
+.par1{
+font-family:Arial;
+margin: 0;
+padding: 0% 6% 0% 29%;
+font-size: 28px;
+color:   #601f1f;
+}
+.par2{
+font-family:Arial;
+margin: 0;
+padding: 0% 6% 0% 21%;
+font-size: 18px;
+color:   #e4f2ef;
+}
+.par3{
+font-family:Arial;
+margin: 0;
+padding: 0% 6% 0% 29%;
+font-size: 18px;
+color:   #e4f2ef;
+}
+.account{
+font-family:Arial;
+margin: 0;
+padding: 0% 6% 0% 30%;
+font-size: 45px;
+color:   #e4f2ef;
+}
+
+.email {
+ display: block;
+float: left;
+clear: both;
+width: 20%;
+height: 48px;
+margin: -51px 0 0 28%;
+padding: 0 10px;
+background-color: #f1c7e6;
+font-size: 0.857em;
+color: rgb(77, 77, 77);
+font-family:Arial;
+}
+.password {
+ display: block;
+float: left;
+clear: both;
+width: 20%;
+height: 48px;
+margin: -51px 0 0 51%;
+padding: 0 10px;
+background-color:  #f1c7e6;
+font-size: 0.857em;
+line-height: 1.78;
+color: rgb(26, 26, 26);
+font-family:Arial;
+}
+.name{
+  display: block;
+float: left;
+clear: both;
+width: 17%;
+height: 48px;
+margin: 29px 0 0 8%;
+padding: 0 10px;
+background-color:  #f1c7e6 ;
+font-size: 0.857em;
+line-height: 1.78;
+color: rgb(26, 26, 26);
+font-family:Arial;
+}
+
+.submit {
+ display: block;
+float: left;
+clear: both;
+width: 20%;
+height: 53px;
+margin: -52px 0 0 74%;
+border-radius: 3px;
+background: #53d0e7;
+font-size: 1.286em;
+line-height: 1.18;
+text-align: center;
+color: rgb(18, 20, 20);
+font-family:Arial;
+}
+.username{
+  display: block;
+float: left;
+clear: both;
+width: 17%;
+height: 48px;
+margin: 29px 0 0 35%;
+padding: 0 10px;
+background-color:  #f1c7e6 ;
+font-size: 0.857em;
+line-height: 1.78;
+color: rgb(26, 26, 26);
+font-family:Arial;
+}
+.pass{
+  display: block;
+float: left;
+clear: both;
+width: 17%;
+height: 48px;
+margin: 29px 0 0 35%;
+padding: 0 10px;
+background-color:  #f1c7e6 ;
+font-size: 0.857em;
+line-height: 1.78;
+color: rgb(26, 26, 26);
+font-family:Arial;
+}
+.log{
+  display: block;
+float: left;
+clear: both;
+width: 8%;
+height: 44px;
+margin: 29px 0 47px 35%;
+padding: 0 10px;
+background-color:  #f1c7e6 ;
+font-size: 0.857em;
+line-height: 1.78;
+color: rgb(26, 26, 26);
+font-family:Arial;
+}
+
+
+
+
+.my{
+font-family: Arial;
+margin: 0;
+padding: 9% 6% 0% 35%;
+font-size: 34px;
+color: #e4f2ef;
+}
+
+
+
+
+
+
+
+
+
+

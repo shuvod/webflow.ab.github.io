@@ -1,0 +1,153 @@
+
+
+
+body {
+ margin: 0;
+  background-image: url(4.jpg);
+  background-size:cover;
+
+
+}
+
+
+.nav{
+	width:100%;
+	background:#000033;
+	height:100px;
+	margin-top:0px;
+	opacity:0.5;
+}
+ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:absolute;
+	margin-left: 669px;
+}
+li {
+	float:left;
+	margin-top:30px;
+}
+a{
+	width:150px;
+	color:white;
+	display:block;
+	text-decoration:none;
+	font-size:20px;0
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	font-family:Century Gothic;
+	font-weight:bold;
+}
+a:hover{
+	background:#669900;
+	transition:0.6s;
+}
+
+.homeavo {
+font-family:Arial;
+margin: 0;
+padding: 3% 6% 0% 45%;
+font-size: 60px;
+color:   white;
+}
+
+.mission {
+font-family:Arial;
+margin: 0;
+padding: 1% 6% 0% 3%;
+font-size: 20px;
+color:    #20eec2 ;
+}
+.hello {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 1%;
+font-size: 35px;
+color:   white;
+}
+.we {
+font-family:Arial;
+margin: 9px;
+padding: 0% 7% 2% 42%;
+font-size: 20px;
+color:   #20eec2;
+}
+.change {
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 1%;
+font-size: 35px;
+color:   white;
+}
+.never{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 18px;
+color:    #a4afa8;
+}
+.everyone{
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 55%;
+font-size: 35px;
+color:   white;
+}
+.make{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% -1%;
+font-size: 18px;
+color:    #93cbab ;
+}
+.platform{
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 1%;
+font-size: 35px;
+color:   white;
+}
+.insted{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 0%;
+font-size: 18px;
+color:    #a4afa8;
+}
+.should{
+font-family:Arial;
+margin: 9px;
+padding: 0% 4% 0% 55%;
+font-size: 35px;
+color:   white;
+}
+.a{
+font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% -1%;
+font-size: 18px;
+color:    #93cbab ;
+}
+footer{
+	width:100%;
+	background-color: #2f262c;
+	padding:1% 0%;
+	opacity:0.5;
+	
+}
+.received{
+	font-family:Arial;
+margin: 9px;
+padding: 0% 3% 0% 36%;
+font-size: 21px;
+color:    #fefbfd;
+}
+
+
+
+
+
+
+
